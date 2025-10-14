@@ -2,6 +2,8 @@
 
 A fully in-browser vector database implementation with semantic search capabilities. [Here's the vector DB in 300 lines of code](./src/dotdb/index.ts)
 
+You can try it [here](https://dotdb.summerlabs.xyz/).
+
 ![screenshot](./public/ss.png)
 
 ## Features
@@ -43,4 +45,4 @@ All embeddings are generated client-side and stored in IndexedDB for instant rec
 
 ## Live Demo
 
-Soon
+[dotdb.summerlabs.xyz](https://dotdb.summerlabs.xyz/)
